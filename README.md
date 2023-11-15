@@ -19,8 +19,8 @@
 
 Step 1 :
                   Star and Fork this Two Repo
-                 ✔ [*Management bot](https://github.com/LOGI-TECH/LOGI-BOT)
-                  ✔ [*music bot](https://github.com/LOGI-TECH/MUSIC)
+                 ✔ [*Management bot](https://github.com/NITISHSHARMA143123/Cocktail-Mang-Music)
+                  ✔ [*music bot](https://github.com/NITISHSHARMA143123/Cocktail-Mang-Music)
                   
 Step 2 :
             First We Depoly Management bot repo : 
@@ -74,7 +74,7 @@ Step 2 :
  Press this Button to Depoly Music Bot in Heroku
   
  
-   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LOGI-TECH/MUSIC)
+   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NITISHSHARMA143123/Cocktail-Mang-Music)
   
   Step 6:
   
