@@ -13,7 +13,7 @@ from LG import app, arq
 from LG.core.decorators.errors import capture_err
 from LG.utils.pastebin import paste
 
-__MODULE__ = " 🎧 Mᴜꜱɪᴄ"
+__MODULE__ = "Mᴜꜱɪᴄ"
 __HELP__ = """
 /mplay - TO see music commands
 /ytmusic [link] To Download Music From Various Websites Including Youtube. [SUDOERS]
