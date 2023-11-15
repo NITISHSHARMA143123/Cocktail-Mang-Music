@@ -12,7 +12,7 @@
     ],
   
  "logo":    "https://te.legra.ph/file/e8595050c54ea14f34d9.jpg",  
- "repository": "http://t.me/its_arryan",
+ "repository": "https://github.com/NITISHSHARMA143123/Cocktail-Mang-Music",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
